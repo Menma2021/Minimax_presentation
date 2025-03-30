@@ -63,6 +63,9 @@ visualizer.visualize_boards_with_values()
 
 ## Notes
 - Large board sizes or depths beyond 4 can make visualization difficult and long
+- Board images will be saved in `board_images` folder
+- Graphs will be saved directly in the repository folder
+- There are some additional folders with some images from the presentation (or at least with images that where planned to be used in there)
 
 ## License
 This project is licensed under the MIT License
